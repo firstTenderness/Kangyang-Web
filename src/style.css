@@ -1,0 +1,7 @@
+/* 导入 Font Awesome 样式 */
+@import "../node_modules/font-awesome/css/font-awesome.min.css";
+
+/* 导入 Tailwind CSS 基础样式 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
